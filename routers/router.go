@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"securitychecker/controllers"
+	"securityjudger/controllers"
 	"github.com/astaxie/beego"
 )
 
