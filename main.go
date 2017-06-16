@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "securitychecker/routers"
+	_ "securityjudger/routers"
 	"github.com/astaxie/beego"
 )
 
